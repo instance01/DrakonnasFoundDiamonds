@@ -1,0 +1,11 @@
+name: FoundDiamonds
+main: com.comze_instancelabs.founddiamonds.Main
+version: 1.0
+author: instancelabs
+permissions:
+  founddiamonds.notification:
+    description: Gives access to get notifications from FoundDiamonds.
+commands:
+   fdstats:
+      description: Shows statistics for the provided player
+      usage: /fdstats [name]
